@@ -1,0 +1,26 @@
+body {
+  font-family: Manrope;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(193, 202, 214);
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  margin-top: 50px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  display: inline-block;
+  padding: 10px;
+  color: rgb(45, 204, 5);
+  background-color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+a:hover {
+  background-color: rgb(45, 204, 5);
+  color: #fff;
+}
